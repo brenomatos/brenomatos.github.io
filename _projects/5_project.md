@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Cool stuff to do in Belo Horizonte
+description: My personal guide to having fun in BH
+img: assets/img/ipebh.jpeg
 importance: 3
 category: fun
 ---
