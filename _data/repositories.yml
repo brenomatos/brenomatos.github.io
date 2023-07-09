@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - brenomatos
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - brenomatos/abusive-language
+  - brenomatos/funk-svd
+  - brenomatos/portuguese-pos-tagging
+  - brenomatos/exoplanet-classification
+  - brenomatos/rsa
+  - brenomatos/transfer-learning
