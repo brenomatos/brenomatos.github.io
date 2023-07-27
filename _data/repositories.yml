@@ -5,6 +5,6 @@ github_repos:
   - brenomatos/abusive-language
   - brenomatos/funk-svd
   - brenomatos/portuguese-pos-tagging
-  - brenomatos/exoplanet-classification
+  - brenomatos/multithreaded-perspective-api
   - brenomatos/rsa
   - brenomatos/transfer-learning
