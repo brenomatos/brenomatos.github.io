@@ -9,7 +9,7 @@ category: fun
 
 # Bars
 
-Belo Horizonte, or simply BH, is known in Brazil for being the 'city of bars'. Although I often dispute this claim, here are some of my favorite places:
+I've lived in Belo Horizonte, or simply BH, for many years. BH is known in Brazil for being the 'city of bars'. Although I often dispute this claim, here are some of my favorite places:
 
 ### Café Cultura Bar
 
