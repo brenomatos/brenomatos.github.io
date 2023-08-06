@@ -23,8 +23,6 @@ I'm Breno, currently a M.Sc. student in computer science at UFMG, Belo Horizonte
 
 I'm interested misinformation, online radicalization, content moderation, complex networks, NLP, and machine learning. 
 
-<b> Note:</b> I just changed my page's template, so it is still under development.
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
