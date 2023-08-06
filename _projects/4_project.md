@@ -29,7 +29,7 @@ I listen to many international artists, but I often argue that Brazilian music i
 - Maria Fumaça - Banda Black Rio
     - Upbeat tunes
 - Egito Madagáscar - Olodum
-    - Hard to explain, but it has a great importance
+    - Hard to explain, but it is an important album
 - Acabou Chorare - Novos Baianos
     - Chosen the greatest brazilian album by [rolling stones magazine](https://en.wikipedia.org/wiki/List_of_Rolling_Stone_Brasil_100_Greatest_Brazilian_Music_Records). Don't know if I agree, but easily in the top 10
 - África Brasil - Jorge Ben Jor
