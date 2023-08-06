@@ -13,7 +13,7 @@ I've lived in Belo Horizonte, or simply BH, for many years. BH is known in Brazi
 
 ### Café Cultura Bar
 
-A great place to enjoy good food, good music and a relaxing enviroment
+A great place to enjoy good food, good music and a relaxing environment
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,7 +35,7 @@ It would be a regular bar if it wasn't for the fact that it is pool/snooker bar 
 
 ### Rei do Pastel
 
-A bar that's open 24/7 with excelent prices. Couldn't find a goot picture though
+A bar that's open 24/7 with excellent prices. Couldn't find a good picture though
 
 ### Bar Dois Irmãos
 
@@ -83,7 +83,7 @@ located in the Mercado Central, is a great place to grab a bite and get some cof
 
 ### Café Nice
 
-Established in 1939, Café Nice is a traditional coffee shop in the heart of Belo Horizonte and it definetly deserves a visit. If you don't truste me, listen to the Regional Economics Applications Laboratory from the University of Illinois:
+Established in 1939, Café Nice is a traditional coffee shop in the heart of Belo Horizonte and it definitely deserves a visit. If you don't trust me, listen to the Regional Economics Applications Laboratory from the University of Illinois:
 
 
 <div class="row">
@@ -118,7 +118,7 @@ Established in 1938, Café Palhares is a good place to grab lunch and drink a be
 
 ### Casa Alvorada
 
-Another cool place to go with friends, try regional foods, great coffe, and even some signature drinks
+Another cool place to go with friends, try regional foods, great coffee, and even some signature drinks
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
