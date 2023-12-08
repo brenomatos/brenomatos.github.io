@@ -18,10 +18,14 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+<!-- 
 I'm Breno, currently a M.Sc. student in computer science at UFMG, Belo Horizonte, Brazil, working under professors [FabrÃ­cio Benevenuto](https://twitter.com/fbenevenuto) and [Rodrygo Santos](https://twitter.com/rodrygo_santos) on automatic misinformation detection.
 
-I'm interested in NLP, network science, and machine learning. 
+I'm interested in NLP, network science, and machine learning.  -->
+
+I'm Breno, currently a M.Sc. student in computer science at UFMG, Belo Horizonte, Brazil, working under professors [Fabrício Benevenuto](https://scholar.google.com/citations?hl=en&user=iOnt0iMAAAAJ) and [Rodrygo Santos](https://scholar.google.com/citations?user=NAyozE0AAAAJ). My interests lie at the intersection of Natural Language Processing, Machine Learning, and Network Science, focusing on social questions. 
+
+I'm currently working on tackling misinformation and hate through NLP.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
