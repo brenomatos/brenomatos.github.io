@@ -24,3 +24,5 @@ If you're not from an EU country, you'll need a visa. But the EPFL staff will he
 I had the opportunity to be an intern at the Data Science Lab under prof. Robert West. I worked on a project with Manoel, one of his PhD students, on simulating user sessions on YouTube with bots. 
 
 I worked on assessing bias in YouTube recommendations, improving a robust bot architecture that would watch a list of videos and determine whether videos from multiple political viewpoints are being "promoted" by YouTube's recommendation system or actively being looked for by users. Specifically, one of the main objectives was to understand if far-right content is abnormally boosted on the platform in contrast to other political content, as previously discussed in the media. We used watching sessions from real users to replicate user behavior accurately and found preliminary results that point to YouTube's algorithm not being the main culprit for these recommendations; that is, we found that users have to consistently engage with far-right content for it to be recommended to them.
+
+I learned a lot while at EPFL and also made great friends. I cannot recommend this program enough!
