@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I had the opportunity to do an Internship at EPFL during the summer, working under Professor Robert West and alongside his PhD student Manoel Ribeiro.
+I had the opportunity to do an Internship at EPFL during the summer, working under Professor Robert West and alongside his PhD student Manoel Ribeiro. Read more about it in my blog post!
 
 ***
 

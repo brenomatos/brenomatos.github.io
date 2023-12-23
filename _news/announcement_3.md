@@ -6,5 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Published our paper 'On the Presence of Abusive Language in Mis/Disinformation' at the 
-International Conference on Social Informatics 2022
+Published our paper 'On the Presence of Abusive Language in Mis/Disinformation' at the International Conference on Social Informatics 2022
+
+
+You can read our work [here](https://link.springer.com/chapter/10.1007/978-3-031-19097-1_18).
