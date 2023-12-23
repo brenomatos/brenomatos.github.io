@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 
-Believe ir or not, I have other interests besides computer science. In my free time I like going to the movies, listening to music, playing guitar, going on hikes, and discovering new places to go to with my friends.
+In my free time I like going to the movies, listening to music, playing guitar, going on hikes, and discovering new places to go to with my friends.
 
 In this page you'll find some additional information on theses interests, such as:
 
