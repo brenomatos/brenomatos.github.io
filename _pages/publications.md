@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-You  can also check out my publications on google scholar [here](https://scholar.google.com/citations?user=6WOFr9UAAAAJ&hl=en)
+You  can also check out my publications on google scholar [here](https://scholar.google.com/citations?user=EY4awscAAAAJ&hl=en)
 <!-- _pages/publications.md -->
 <div class="publications">
 
