@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awarded a Google Latin America Research Award
-date: 2023-12-22 15:59:00-0400
+date: 2023-12-01 15:59:00-0400
 inline: false
 related_posts: false
 ---
