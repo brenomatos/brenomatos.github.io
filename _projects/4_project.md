@@ -69,7 +69,12 @@ I listen to many international artists, but I often argue that Brazilian music i
 - Wave - Tom Jobim
     - One of Bossa Nova's greats
 - Tim Maia Racional, Vol. 1,2, and 3 - Tim Maia
-    - Just listen to it
+    - Inovative
+- Me Chama De Gato Que Eu Sou Sua - Ana Frango Elétrico
+    - Ana is a young brazilian talent, definitely worth listening to them
+- O Amor, o Perdão e a Tecnologia Irão nos Levar para Outro Planeta - FBC
+    - FBC reinvents himself once again
+
 
 
 This list may be updated, but many great songs can be found in average albums. Although I won't list them here, you can follow my spotify playlist [here](https://open.spotify.com/playlist/5qQaq4T9ASpVQL0XdVzUQG?si=f1368eafb75e4cb0)
