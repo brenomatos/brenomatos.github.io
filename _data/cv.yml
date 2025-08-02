@@ -12,19 +12,19 @@
     - title: M.Sc. in Computer Science
       institution: Federal University of Minas Gerais, Belo Horizonte, Brazil
       year: 2021-2023
-      description:
-        - Working under professors Fabrí­cio Benevenuto and Rodrygo Santos on automatic misinformation detection.
-        - Natural Language Processing, Computational Social Science, Online Misinformation.
-        - Awarded scholarships for M.Sc. studies
-        - Awarded a Google Latin America Research Award
+      # description:
+      #   - Working under professors Fabrí­cio Benevenuto and Rodrygo Santos on automatic misinformation detection.
+      #   - Natural Language Processing, Computational Social Science, Online Misinformation.
+      #   - Awarded scholarships for M.Sc. studies
+      #   - Awarded a Google Latin America Research Award
     - title: B.Sc. in Computer Science
       institution: Federal University of Minas Gerais, Belo Horizonte, Brazil
       year: 2017-2021
-      description:
-        - Involved in research since the first semester
-        - Multiple scholarships through bachelor's 
-        - Comprehensive Computer Science coursework. Includes, but is not limited to, Algorithm Design, Machine Learning, Natural Language Processing, Quantum Computing, Compilers, Data Science, and Computer Networks. 
-        - Acquired both research and software development experience.
+      # description:
+      #   - Involved in research since the first semester
+      #   - Multiple scholarships through bachelor's 
+      #   - Comprehensive Computer Science coursework. Includes, but is not limited to, Algorithm Design, Machine Learning, Natural Language Processing, Quantum Computing, Compilers, Data Science, and Computer Networks. 
+      #   - Acquired both research and software development experience.
 
 # - title: Experience
 #   type: time_table
