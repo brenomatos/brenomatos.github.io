@@ -19,12 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I’m Breno Matos, a PhD candidate in Computer Science at the Max Planck Institute for Informatics, where I’m advised by Anja Feldmann and Savvas Zannettou. My interests lie at the intersection of Natural Language Processing, Machine Learning, and Network Science, focusing on social questions. 
 
+Previously, I was a Data Scientist at [Kunumi](https://www.kunumi.com/), where I work building cutting edge credit analysis solutions with NLP. I hold a bachelor's and a master's from UFMG, Brazil, where I worked under professors [Fabrício Benevenuto](https://scholar.google.com/citations?hl=en&user=iOnt0iMAAAAJ) and [Rodrygo Santos](https://scholar.google.com/citations?user=NAyozE0AAAAJ). 
 
-
-I'm Breno, currently a Data Scientist at [Kunumi](https://www.kunumi.com/), where I work building cutting edge credit analysis solutions with NLP. I hold a bachelor's and a master's from UFMG, Brazil, where I worked under professors [Fabrício Benevenuto](https://scholar.google.com/citations?hl=en&user=iOnt0iMAAAAJ) and [Rodrygo Santos](https://scholar.google.com/citations?user=NAyozE0AAAAJ). My interests lie at the intersection of Natural Language Processing, Machine Learning, and Network Science, focusing on social questions. 
-
-I'm currently working on tackling misinformation and hate through NLP.
+If you would like to work with me, send an email at: [first letter of my first name] + [last name] at mpi-inf.mpg.de
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
