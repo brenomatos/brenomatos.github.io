@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my M.Sc. studies at UFMG
+Started my M.Sc. at UFMG
