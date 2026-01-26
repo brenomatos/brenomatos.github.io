@@ -23,7 +23,7 @@ I’m Breno Matos, a PhD candidate in Computer Science at the Max Planck Institu
 
 Previously, I was a Data Scientist at [Kunumi](https://www.kunumi.com/), where I work building cutting edge credit analysis solutions with NLP. I hold a bachelor's and a master's from UFMG, Brazil, where I worked under professors [Fabrício Benevenuto](https://scholar.google.com/citations?hl=en&user=iOnt0iMAAAAJ) and [Rodrygo Santos](https://scholar.google.com/citations?user=NAyozE0AAAAJ). 
 
-If you would like to work with me, send an email at: [first letter of my first name] + [last name] at mpi-inf.mpg.de
+If you would like to work with me, email me at: [first letter of my first name] + [last name] at mpi-inf.mpg.de
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
