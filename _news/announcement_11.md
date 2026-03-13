@@ -1,0 +1,12 @@
+---
+layout: post
+date: 2026-03-13 15:59:00-0400
+title: Attended the Polyglot Workshop – Developing LLMs for Low-Resource Languages
+inline: false
+related_posts: false
+---
+
+Had a great time learning the challenges of developing LLMs for low-resource languages. It is very hard work! Had a great time with the Polygl0t team at Bonn.
+
+[Link to the event's page](https://indico.hiskp.uni-bonn.de/event/1080/)
+
