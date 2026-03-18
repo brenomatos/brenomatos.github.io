@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Breno Matos, a PhD candidate in Computer Science at the Max Planck Institute for Informatics, where I’m advised by Anja Feldmann and Savvas Zannettou. My interests lie at the intersection of Natural Language Processing, Machine Learning, and Network Science, focusing on social questions. 
 
-Previously, I was a Data Scientist at [Kunumi](https://www.kunumi.com/), where I work building cutting edge credit analysis solutions with NLP. I hold a bachelor's and a master's from UFMG, Brazil, where I worked under professors [Fabrício Benevenuto](https://scholar.google.com/citations?hl=en&user=iOnt0iMAAAAJ) and [Rodrygo Santos](https://scholar.google.com/citations?user=NAyozE0AAAAJ). 
+Previously, I was a Data Scientist at [Kunumi](https://www.kunumi.com/), where I worked building cutting edge credit analysis solutions with NLP. I hold a bachelor's and a master's from UFMG, Brazil, where I worked under professors [Fabrício Benevenuto](https://scholar.google.com/citations?hl=en&user=iOnt0iMAAAAJ) and [Rodrygo Santos](https://scholar.google.com/citations?user=NAyozE0AAAAJ). 
 
 If you would like to work with me, email me at: [first letter of my first name] + [last name] at mpi-inf.mpg.de
 
